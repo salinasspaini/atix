@@ -1,0 +1,28 @@
+<!Doctype html>
+<html lang="en">
+<head>
+   <meta charset="utf-8">
+<title>Tutorial</title>
+<link rel="stylesheet" href="style.css">
+
+</style>
+</head>
+<body>
+<header class="header">
+<div class="wrapper">
+   <div class="logo">
+          Tutorial
+   </div>
+   <nav>
+     <a href="index.htm">Inicio</a>
+     <a href="#Servicios">Impresoras</a>
+     <a href="#Precios">Programas</a>
+     <a href="ubicacion.htm">Ubicacion</a>
+     <a href="#Contactos">Contacto</a>
+
+   </nav>
+</div>
+
+</header>
+</body>
+</html>
